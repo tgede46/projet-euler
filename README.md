@@ -1,4 +1,4 @@
-# projet-euler# Le Projet Euler : Un Défi Mathématique et Algorithmique
+# Le Projet Euler : Un Défi Mathématique et Algorithmique
 
 Le Projet Euler est une série de problèmes mathématiques et informatiques destinés à être résolus par programmation. Ce projet a été initié en 2001 par Colin Hughes, un mathématicien passionné par les défis numériques et la théorie des nombres. Depuis son lancement, il a attiré des milliers de participants à travers le monde, des étudiants aux chercheurs en mathématiques et en informatique.
 
@@ -54,7 +54,7 @@ NB: le but n’est pas de résoudre tous les problèmes du projet mais c’est p
     git push origin PrenomNom
 
 
-#Structure du projet :
+# Structure du projet :
 Un dossier portant votre prénom et nom.
 
 À l’intérieur, un fichier README.md dans lequel :
